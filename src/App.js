@@ -41,7 +41,7 @@ function App() {
     <TabPanel header="Projets" leftIcon="pi pi-user mr-2">
       <Projets />
     </TabPanel>
-
+  
     <TabPanel header="Certifications" leftIcon="pi pi-file mr-2">
       <Certifications />
     </TabPanel>
